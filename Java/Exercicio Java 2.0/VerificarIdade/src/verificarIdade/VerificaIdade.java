@@ -18,7 +18,10 @@ public class VerificaIdade {
 		String nome;
 		int idade;
 		
+		System.out.println("Digite seu nome");
 		nome= teclado.next();
+		
+		System.out.println("Digite sua idade");
 		idade= teclado.nextInt();
 		
 		if(idade >= 18) {
