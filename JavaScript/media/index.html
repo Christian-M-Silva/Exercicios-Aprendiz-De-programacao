@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        function media(nota1, nota2){
+            return (nota1*nota2)/2;
+        }
+    </script>
+    <title>Media do aluno</title>
+</head>
+<body>
+    <!--Fazer um programa em HTML para:
+        Criar uma função na tag <head> para calcular a média de duas notas (as notas são os parâmetros). A função precisa usar o return para devolver a média calculada;
+        Criar um título com a tag <h2>;
+        Criar um parágrafo com informações pertinentes ao que a função se propõe;
+        Informar as duas notas através do prompt;
+        Chamar a função criada e atribuir o resultado a uma variável (tag <body>);
+        Na sequência é preciso saber se a media é maior ou igual a 7, se for exibir aprovado, se não exibir reprovado.-->
+        <h2>Calculo da média do aluno</h2>
+
+        <p>O programa irá pegar os dois valores digitados multiplicar eles e dividi-lós por 2, se for maior que ou igual a 7 você está aprovado do contrario está reprovado</p>
+
+        <script>
+            let nota1= prompt("Escreva a primeira nota");
+            nota1= parseFloat(nota1);
+
+            let nota2= prompt("Escreva a segunda nota");
+            nota2= parseFloat(nota2);
+            
+            let valorF = media(nota1, nota2);
+
+            if(valorF >= 7){
+                document.write("<h1>"+"Aprovado"+"</h1>")
+            }
+            else{
+                document.write("<h1>"+"Se ferrou parcero"+"</h1>");
+            }
+
+            document.write("Nota foi "+ valorF);
+        </script>
+</body>
+</html>

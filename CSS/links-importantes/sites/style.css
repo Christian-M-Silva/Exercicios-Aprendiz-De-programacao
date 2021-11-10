@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 2px red solid;
+}
+
+h2{
+    margin-bottom: 40px;
+}
+
+a{
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:link, a:visited{
+    color: rgb(45, 18, 165);
+}
+
+a:hover{
+    color: lawngreen;
+    background-color: rgb(0, 81, 255);
+}
+
+a:active{
+    color: firebrick;
+}
+
+#imagens{
+    background-color: azure;
+    position: relative;
+    left: 50px;
+}
+
+#estudar{
+    background-color: rgb(93, 102, 109);
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+    z-index: 1;
+}
+
+#Trabalho{
+    background-color: cornsilk;
+    position: relative;
+    bottom: 608px;
+    left: 500px;
+}
+
+#Diversão{
+    background-color: rgb(153, 125, 167);
+    position: relative;
+    bottom: 650px;
+    left: 700px;
+    z-index: 1;
+}

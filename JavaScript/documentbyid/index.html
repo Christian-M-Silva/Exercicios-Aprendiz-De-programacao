@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Criar um novo arquivo .html;
+        Criar um parágrafo na tag <body> com a frase “ola pessoal!”;
+        Criar um botão na tag <body> com o dizer “Clique aqui para trocar o texto”;
+        Criar uma função (usar tag <script>) de nome trocacor();
+        O botão ao ser acionado deverá executar a função;
+        Função:
+        Colocar o parágrafo na cor vermelha;
+        Colocar a nova informação com a frase “Novo texto inserido”;-->
+
+        <p>Olá pessoal</p>
+
+        <button id="trocar" onclick="trocacor()">Clique aqui para trocar de texto</button>
+
+        <script>
+            function trocacor(){
+                document.getElementById("trocar").innerHTML="Novo texto inserido";
+                document.getElementById("trocar").style.backgroundColor = "red";
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+#container{
+    margin: auto;
+    width: 80%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-width: 800px;
+}
+
+#marca{
+    background-color: #85090B;
+    width: 100%;
+    padding: 60px 0px;
+    text-align: center; 
+    color: #b8691f; 
+    background: url(Imagens/cabecalho2.jpg) center center;  
+}
+
+#menu{
+    width: 18%;
+    float: left;
+    margin-right:10px;
+}
+
+ul{
+    padding: 0;
+    margin-top: 0px;
+    
+}
+#menu ul li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    text-indent: 15px;
+    padding: 10px;
+    background-color: rgb(223, 35, 35);
+    color: rgb(243, 223, 223);
+}
+
+a:hover{
+    background-color: rgb(194, 19, 19);
+}
+
+#conteudo-principal{
+    width: 59.3%;
+    background-color: rgb(194, 19, 19);
+    float: left;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+img{
+    width: 95%;
+    margin: auto;
+    display: block;
+    max-width: 640px;
+}
+
+#chat{
+    width: 20%;
+    background-color: rgb(223, 35, 35);
+    float: right;
+}
+
+#chat div{ 
+    padding: 5px;
+}
+
+#chat div div{ 
+    padding: 0px;
+    background-color: rgb(117, 117, 117);
+}
+
+#chat span{ 
+    background-color: white;
+    display: block;
+}
+
+h3{
+    text-align: center;
+}
+
+#rodape{
+    background-color: #85090B;
+    width: 100%;
+    padding: 5px 0px;
+    text-align: center; 
+    color: #b8691f;  
+    clear: both;
+}

@@ -1,0 +1,138 @@
+/*Formatação Geral*/ 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #E3E3E3;
+}
+/*Formatação Geral!!!!!*/
+
+
+/*Formatação TOPO*/
+#topo img{
+    width: 1519px;
+    height: 458px;  
+}
+
+.titulo{
+    position: absolute;
+    top: 10px;
+    left: 635px;
+    color: rgb(28, 0, 128);
+    font-family:  cursive;
+    font-size: 20px;
+}
+
+h1{
+    background-color: #4C5F7D;
+}
+/*Formatação TOPO!!!!!!*/
+
+
+/*LADO ESQUERDO*/
+.caixa-lado{
+    width: 150px;
+    float: left;
+    margin-left: 10px;   
+}
+
+li{ 
+    text-indent: 30px;
+    padding: 10px;
+    list-style-type: none;
+    background-color: rgb(111, 201, 166);
+}
+
+.lista-preços{
+    border-top: 1px solid seagreen;
+    border-bottom: 1px solid seagreen;
+}
+
+li a{
+   text-decoration: none;
+   background-color: rgb(111, 201, 166);
+   font-family: cursive;
+   font-size: 20px;
+}
+
+li a:link, a:visited{
+    color: darkred;
+    cursor: pointer;
+} 
+
+li a:hover{
+    color: darkslategray;
+}
+
+#home li .home,
+#preços li .preços,
+#login li .login{
+    color: rgb(105, 105, 105);
+}
+/*LADO ESQUERDO!!!!!*/
+
+
+/*CENTRO*/
+.centro{
+    width: 950px;
+    background-color: #fff;
+    float: left; 
+    margin-right: 30px; 
+    margin-bottom: 6px; 
+    background-image: url(fotos/coluna.png);
+    background-repeat: repeat-y;
+}
+
+.conteudo-centro{
+    clear: both;
+    margin-left: 300px;
+    width: 550px;
+    background-color: #fff;
+}
+
+.conteudo-centro  p{
+                     margin-bottom: 15px;
+                     margin-top: 15px;
+}
+
+p a{
+    text-decoration: none;
+    color: rgb(23, 46, 38);
+}
+/*CENTRO!!!!!*/
+
+
+/*LADO DIREITO*/
+.caixa-lado-direito{
+    width: 350px;
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+}
+
+.caixa-lado-direito h2{
+    text-align: center;
+}
+
+.caixa-lado-direito p{
+    padding: 9px 8px;
+}
+/*LADO DIREITO!!!!!*/
+
+
+/*RODAPE*/
+.rodape{
+    width: 689px;
+    height: 70px;
+    clear: both;
+    margin: 8px auto;  
+}
+
+.rodape p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+/*RODAPE*/

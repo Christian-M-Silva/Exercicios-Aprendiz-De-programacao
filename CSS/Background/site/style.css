@@ -1,0 +1,18 @@
+p{
+    font-size: 3em;
+}
+
+#Fundo-colorido{
+    background-color: royalblue;
+}
+
+#Fundo-Imagem{
+    background-image: url('Imagens/yoshi.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#Fundo-Misturado{
+    background: gray url(Imagens/yoshi.png) repeat-x scroll center center;
+}

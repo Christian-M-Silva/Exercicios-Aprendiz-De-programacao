@@ -1,0 +1,16 @@
+div, span{
+    border: 1px red solid;
+    margin-bottom: 9px;
+}
+
+.bloco-inline{
+    display: inline-block;
+}
+
+.block{
+    display: block;
+}
+
+.Inline{
+    display: inline;
+}

@@ -1,0 +1,70 @@
+body{
+    font: 20px arial, helvetica sans-serif;
+}
+
+div{
+    width: 600px;
+}
+
+p{
+    background-color: rgba(128, 128, 128, 0.685);
+    border: 5px red solid;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(76, 0, 130, 0.726);
+    font-weight: bold;
+}
+
+/*INICIO FORMATAÇÃO DOS PARÁGRAFOS DO EXPERIMENTO*/
+#conteudo1{
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 23px;
+}
+
+#conteudo2{
+    width: 700px;
+    padding-right: 10px;
+}
+
+#conteudo3{
+    padding: 20px;
+}
+
+#conteudo4{
+    padding: 1em;/*Esse valor é igual ao do container pai que da o valor que é o body dessa vez, afinal a div não tem nenhum valor estabelecido então é o valor de 20px*/
+}
+
+#conteudo5{
+    padding: 10%;
+}
+
+#conteudo6{
+    width: 700px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#conteudo7{
+    margin:20px;
+}
+
+#conteudo8{
+    width: 700;
+    margin: 1em;
+    padding: 10px;
+}
+/*FIM FORMATAÇÃO DOS PARÁGRAFOS DO EXPERIMENTO*/
+
+
+/*INICIO FORMATAÇÃO DOS PARÁGRAFOS DO EXERCÍCIO*/
+.conteudos{
+    padding: 15px;
+    margin-bottom: 9px;
+}
+/*FIM FORMATAÇÃO DOS PARÁGRAFOS DO EXERCÍCIO*/

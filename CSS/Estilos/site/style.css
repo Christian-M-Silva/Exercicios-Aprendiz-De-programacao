@@ -1,0 +1,36 @@
+body{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-weight: 400;
+}
+
+#paragrafo1{
+    font-weight: bold;
+}
+
+#paragrafo2{
+    font-weight: normal;
+}
+
+#paragrafo3{
+    font-style: italic;
+}
+
+#paragrafo4{
+    text-decoration: overline;
+}
+
+#paragrafo5{
+    text-decoration: underline;
+}
+
+#paragrafo6{
+    text-decoration: line-through;
+}
+
+#paragrafo7{
+    font: italic bold 2em  Georgia, 'Times New Roman', Times, serif;
+}

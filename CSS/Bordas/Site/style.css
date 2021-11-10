@@ -1,0 +1,60 @@
+/*Todas as bordas que eu aprendi até agora, cada um com seu respectivo nome, ou estilo*/
+
+#outset{
+    border: 15px outset red;
+}
+
+#inset{
+    border: 15px inset blue;
+}
+
+#ridge{
+    border: 15px ridge paleturquoise;
+}
+
+#groove{
+    border: 15px groove green;
+}
+
+#double{
+    border: 15px double gainsboro;
+}
+
+#solid{
+    border: 15px solid gray;
+}
+
+#dashed{
+    border: 15px dashed royalblue;
+}
+
+#dotted{
+    border: 15px dotted rebeccapurple;
+}
+
+#hidden{
+    border: hidden;
+}
+
+#none{
+    border: none;
+}
+
+#misturaum{
+    border-width: 5px 10px 15px 20px;
+    border-style: solid dotted dashed outset;
+    border-color: teal red gold chocolate;
+}
+
+#misturadois{
+    border-width: 10px 15px;
+    border-style: outset solid;
+    border-color: red blue;
+}
+
+#personalizado{
+    background-color: rgba(52, 150, 231, 0.363);
+    border-width: 10px;
+    border-color: rgb(52, 150, 231);
+    border-style: hidden hidden hidden solid;
+}

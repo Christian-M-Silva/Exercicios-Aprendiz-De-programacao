@@ -1,0 +1,43 @@
+*{
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+ul{
+    margin-left: 315px;
+}
+
+ul li{
+    list-style: none;
+    float: left;
+    background: url(imagens/aba-direita.png) no-repeat right top;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+    display: block;
+    line-height: 2.5em;
+    background: url(imagens/aba-esquerda.png) no-repeat;
+    padding: 0px 3em;
+    font-size: 18px;
+   
+}
+
+a:hover{
+    color: wheat;
+}
+
+#atual{
+    float: left;
+    background: url(imagens/aba-direita-atual.png) no-repeat right top;
+}
+
+#atual a{
+    background: url(imagens/aba-esquerda-atual.png) no-repeat;
+}
+

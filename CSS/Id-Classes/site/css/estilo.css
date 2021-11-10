@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(5, 66, 85, 0.712);
+}
+
+#titulo{
+    background-color: white;
+    color: grey;
+}
+
+.meio-vermelho{
+    color: rgb(128, 51, 0);
+}

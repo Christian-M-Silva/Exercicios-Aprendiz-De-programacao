@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+ul a{
+    display: block;
+    height: 40px;
+    width: 200px;
+    text-decoration: none;
+    line-height: 40px;
+    color: black;
+    text-indent: 27px;
+    background-image: url(../Imagens/menu.png);
+}
+
+ul a:hover,
+#Home #navegaçao .Home a,
+#Quem #navegaçao .Quem a,
+#Contato #navegaçao .Contato a,
+#Loja #navegaçao .Loja a{
+    background-position: right;
+    color: rgb(255, 255, 255);
+}
+
+
+/* Marcando pag*/

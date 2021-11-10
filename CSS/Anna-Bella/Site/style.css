@@ -1,0 +1,42 @@
+body{
+    background: #D2D2C0 url(Imagens/fundo.png);
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+#Largura-conteudo{
+    width: 900px;
+} /*TODO CONTEUDO QUE ESTA A DIREITA TEM O SEU CONTEUDO DEFINIDO AQUI*/
+
+#menu{
+    background-color: #C5C5B2;
+    height: 30px;
+    padding-left: 10px;
+    padding-bottom: 22px;
+} /*MENU COM LINK*/
+
+a{
+    color: #4B566A;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo{
+    background-color: #E8E8D9;
+    padding: 10px;
+} /*CONTEUDO ESCRITO*/
+
+h2{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#rodape{
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}/*RODAPE DO SITE*/
+
+.imagens{
+    border: solid #C3C3AE 10px;
+}

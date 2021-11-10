@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+p{
+    color: #980001;
+}
+
+#titulo{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+#paragrafo1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#paragrafo2{
+    font-family: "Amazing Kids", Arial, sans-serif;
+}
+
+#paragrafo3{
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+}

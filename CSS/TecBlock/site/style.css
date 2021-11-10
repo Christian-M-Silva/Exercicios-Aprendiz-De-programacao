@@ -1,0 +1,142 @@
+/*INICIO DE FORMATAÇÃO GERAL*/
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #E6E6E6;
+}
+
+h2{
+    color: #F7B600;
+}
+
+img{
+    border-top: #E6E6E6 solid 1px;
+    margin-top: 10px;
+    padding-top: 8px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 80px;
+    font-size: 17px;
+}
+
+a:visited, a:link{
+    color: #F7B600;
+    text-decoration: none;
+    font-weight: 100px;
+}
+
+a:hover, a:active{
+    text-decoration: underline;
+}
+
+h4{
+    padding: 5px;
+    margin-left: -8px;
+    margin-bottom: 4px;
+    text-align: center;
+    background-color: #CCCCCC;
+    width: 205px;
+}
+/*FIM DE FORMATAÇÃO GERAL*/
+
+
+
+/*INICIO DE FORMATAÇÃO ID*/
+#area-menu a{ 
+    position: relative;
+    top: 20px;
+    margin-right: 3px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#area-menu a:visited, #area-menu a:link{
+    color: white;
+}
+
+#area-menu a:hover{
+    color: #F7B600;
+    background-color: white;
+}
+
+#area-menu a:active{
+    color: #786124;
+    background-color: white;
+}
+
+#segundo-paragrafo{
+    border-top: 1px #E6E6E6 solid;
+    padding-top: 4px;
+}
+
+#area-menu{
+    background-color: #F7B600;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+
+#area-direitos{
+    width: 895px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #CCCCCC;
+    text-align: center;
+    position: relative;
+    left: 300px;
+    padding: 15px;
+}
+/*FIM DE FORMATAÇÃO ID*/
+
+
+
+/*INICIO DE FORMATAÇÃO CLASSE*/
+.tec{
+    color: #4211AB ;
+    font-size: 40px;
+}
+
+.blog{
+    color: #560CF7;
+    font-size: 40px;
+}
+
+.postagem{
+    float: right;
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+    margin: 20px 270px;
+}
+
+.postagem p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    margin-top: 4px;
+}
+
+.postagem a{
+    font-size: 15px;
+    display: block;
+    font-weight: 300px;
+}
+
+.conteudo{
+    background-color: white;
+    width: 640px;
+    margin-top: 20px; 
+    position: relative;
+    left: 300px;
+    padding: 15px;
+}
+
+.data-postagem{
+    font-size: 13px;
+}
+/*FIM DE FORMATAÇÃO CLASSE*/

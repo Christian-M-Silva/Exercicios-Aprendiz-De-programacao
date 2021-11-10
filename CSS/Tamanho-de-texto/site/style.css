@@ -1,0 +1,31 @@
+body{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+div{
+    font-size: 9px;
+}
+
+#paragrafo1{
+    font-size: 50%;
+}
+
+#paragrafo2{
+    font-size: 2em;
+}
+
+#paragrafo3{
+    font-size: 12.2px;
+}
+
+#paragrafo4{
+    font-size: 30.5%;
+}
+
+#paragrafo5{
+    font-size: 2.5em;
+}
