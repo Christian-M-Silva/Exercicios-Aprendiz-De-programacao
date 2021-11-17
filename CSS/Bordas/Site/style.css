@@ -1,5 +1,10 @@
 /*Todas as bordas que eu aprendi até agora, cada um com seu respectivo nome, ou estilo*/
 
+div{
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 #outset{
     border: 15px outset red;
 }
@@ -38,6 +43,11 @@
 
 #none{
     border: none;
+}
+
+#radius{
+    border: 2px dotted rgb(11, 4, 110);
+    border-radius: 50px;
 }
 
 #misturaum{
