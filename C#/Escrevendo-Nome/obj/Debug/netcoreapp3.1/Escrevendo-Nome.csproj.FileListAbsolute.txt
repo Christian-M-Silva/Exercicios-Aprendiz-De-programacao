@@ -1,0 +1,13 @@
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.exe
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.deps.json
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.runtimeconfig.json
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.runtimeconfig.dev.json
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.dll
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\bin\Debug\netcoreapp3.1\Escrevendo-Nome.pdb
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.csprojAssemblyReference.cache
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.AssemblyInfoInputs.cache
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.AssemblyInfo.cs
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.dll
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.pdb
+C:\Users\Remakker\Downloads\Christian\Exercicios-Aprendiz-De-programacao\C#\Escrevendo-Nome\obj\Debug\netcoreapp3.1\Escrevendo-Nome.genruntimeconfig.cache
