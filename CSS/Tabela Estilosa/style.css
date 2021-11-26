@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(69, 69, 124);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+tr:hover{
+    background-color: rgb(102, 211, 238);
+}
+
+th{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 8px 0;
+    background-color: rgb(119, 110, 110);
+}
+
+td{ 
+    width: 250px;
+    height: 25px;
+    border-width: 1px;  
+    border-style: solid hidden;
+    border-color: rgb(27, 70, 87); 
+}
+
+.cinza{
+    background-color: rgb(156, 153, 153);
+}
+
+
