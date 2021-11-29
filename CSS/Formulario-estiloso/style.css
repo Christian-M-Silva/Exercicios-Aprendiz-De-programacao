@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    margin-top: 10px;
+    text-align: center;
+}
+
+fieldset{
+    background-color: rgb(243, 240, 240);
+    margin-bottom: 15px;
+}
+
+legend{
+    font-size: 1.3em;
+}
+
+label{
+    cursor: pointer;
+}
