@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*****************************INICIO CABEÇALHO**************************/
+
+#cabeçalho{
+    border: 1px solid red;
+    text-align: center;
+    background-color: #ffcc00;
+}
+
+h2{
+    font-size: 40px;
+    color: white;
+}
+
+span{
+    color:gray;
+}
+
+
+
+/*****************************FIM CABEÇALHO**************************/
