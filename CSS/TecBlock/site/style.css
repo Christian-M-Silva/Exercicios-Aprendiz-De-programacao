@@ -51,6 +51,8 @@ span{
     margin-left: 190px;
     margin-top: 23px;
     padding: 20px; 
+    border: 1px solid red;
+    float: left;
 }
 
 h2{
@@ -86,8 +88,12 @@ img{
     width: 200px;
     height: 200px;
     background-color: white;
-    float: right;
-    
+    margin-left: 20px;
+   float: left;
 }
 
 /*****************************INICIO POSTAGEM**************************/
+
+#limpar{
+    clear: both;
+}
