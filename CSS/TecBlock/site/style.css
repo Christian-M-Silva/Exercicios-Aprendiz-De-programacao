@@ -7,12 +7,12 @@
 /*****************************INICIO CABEÇALHO**************************/
 
 #cabeçalho{
-    border: 1px solid red;
     text-align: center;
-    background-color: #ffcc00;
+    background-color: #eec006;
 }
 
-h2{
+h1{
+    padding: 25px 0px;
     font-size: 40px;
     color: white;
 }
@@ -21,6 +21,26 @@ span{
     color:gray;
 }
 
+#menu-cabeçalho{
+    padding-bottom: 25px;
+}
 
+#menu-cabeçalho a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#menu-cabeçalho a:hover{
+    color:  #eec006;
+    background-color: white;
+}
 
 /*****************************FIM CABEÇALHO**************************/
+
+
+/*****************************INICIO CONTÚDO**************************/
+
+
+
+/*****************************FIM CONTÚDO**************************/
