@@ -1,7 +1,11 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(224, 210, 210);
 }
 
 /*****************************INICIO CABEÇALHO**************************/
@@ -28,7 +32,7 @@ span{
 #menu-cabeçalho a{
     color: white;
     text-decoration: none;
-    padding: 10px;
+    padding: 15px;
 }
 
 #menu-cabeçalho a:hover{
@@ -39,8 +43,51 @@ span{
 /*****************************FIM CABEÇALHO**************************/
 
 
-/*****************************INICIO CONTÚDO**************************/
+/*****************************INICIO CONTEÚDO**************************/
+
+#conteudo{
+    width: 640px;
+    background-color: white;
+    margin-left: 190px;
+    margin-top: 23px;
+    padding: 20px; 
+}
+
+h2{
+    color: #eec006;
+}
+
+.titulo-postagem{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+img{
+    border-top: 1px dashed gray;
+    padding-top: 10px;
+    padding-bottom: 5px; 
+}
+
+#conteudo a, .caixas-laterais a{
+    color: #eec006;
+    text-decoration: none;
+}
+
+#conteudo a:hover, .caixas-laterais a:hover{
+   text-decoration: underline;
+}
+
+/*****************************FIM CONTEÚDO**************************/
 
 
+/*****************************INICIO POSTAGEM**************************/
 
-/*****************************FIM CONTÚDO**************************/
+.caixas-laterais{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    float: right;
+    
+}
+
+/*****************************INICIO POSTAGEM**************************/
