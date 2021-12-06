@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(224, 210, 210);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*****************************INICIO CABEÇALHO**************************/
+
+#cabeçalho{
+    text-align: center;
+    background-color: #eec006;
+}
+
+h1{
+    padding: 25px 0px;
+    font-size: 40px;
+    color: white;
+}
+
+span{
+    color:rgb(82, 82, 82);
+}
+
+#menu-cabeçalho{
+    padding-bottom: 25px;
+}
+
+#menu-cabeçalho a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#menu-cabeçalho a:hover{
+    color:  #eec006;
+    background-color: white;
+}
+
+/*****************************FIM CABEÇALHO**************************/
+
+
+/*****************************INICIO CORPO DO SITE**************************/
+
+#corpo-site{
+    width: 920px;
+    margin: 0px auto;
+    margin-top: 10px;
+}
+/*****************************FIM CORPO DO SITE**************************/
+
+
+/*****************************INICIO CONTEÚDO**************************/
+
+#area-conteudo{
+    width: 660px;
+    float: left;
+}
+
+.conteudo{
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 20px;  
+}
+
+h2{
+    color: #eec006;
+}
+
+.titulo-postagem{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+img{
+    border-top: 1px dashed gray;
+    width: 610px;
+    padding-top: 10px;
+    padding-bottom: 5px; 
+}
+
+.conteudo a, .caixas-laterais a{
+    color: #eec006;
+    text-decoration: none;
+}
+
+.conteudo a:hover, .caixas-laterais a:hover{
+   text-decoration: underline;
+}
+
+/*****************************FIM CONTEÚDO**************************/
+
+
+/*****************************INICIO POSTAGEM**************************/
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
+.caixas-laterais{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+h3{
+    background-color: rgb(197, 192, 192);
+    padding: 5px 0px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#primeiro-texto{
+    border-style: none;
+}
+
+.caixas-laterais p{
+    border-top: 1px dashed gray;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+
+.caixas-laterais a{
+    display: block;
+}
+ 
+
+/*****************************FIM POSTAGEM**************************/
+
+
+/*****************************INICIO RODAPÉ**************************/
+
+#rodape{
+    clear: both;
+    background-color: rgb(197, 192, 192);
+    text-align: center;
+    padding: 10px 0px;
+    margin-bottom: 2px;
+}
+
+/*****************************FIM RODAPÉ**************************/
