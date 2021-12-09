@@ -6,12 +6,10 @@ namespace Escrevendo_Nome
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite seu nome:");
-           String nome =  Console.ReadLine();
-
-           Console.Clear();
-
-           Console.Write("O nome é " + nome); 
+           for(int c = 11; c>0; c++){
+               Console.WriteLine("R");
+               c--;
+           } 
         }
     }
 }

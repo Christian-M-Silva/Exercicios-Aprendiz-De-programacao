@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1248398-a10b-4fae-a6c3-87753a35b489": {
+      "ProjectGuid": "c1248398-a10b-4fae-a6c3-87753a35b489",
+      "DisplayName": "Aplicação web exemplo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

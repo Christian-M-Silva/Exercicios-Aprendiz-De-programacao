@@ -51,6 +51,7 @@
             this.BtnConsultar.TabIndex = 23;
             this.BtnConsultar.Text = "Consultar";
             this.BtnConsultar.UseVisualStyleBackColor = true;
+            this.BtnConsultar.Click += new System.EventHandler(this.BtnConsultar_Click);
             // 
             // DgvDados
             // 
@@ -68,6 +69,7 @@
             this.BtnExibir.TabIndex = 21;
             this.BtnExibir.Text = "Exibir";
             this.BtnExibir.UseVisualStyleBackColor = true;
+            this.BtnExibir.Click += new System.EventHandler(this.BtnExibir_Click);
             // 
             // BtnExcluir
             // 
@@ -77,6 +79,7 @@
             this.BtnExcluir.TabIndex = 20;
             this.BtnExcluir.Text = "Excluir";
             this.BtnExcluir.UseVisualStyleBackColor = true;
+            this.BtnExcluir.Click += new System.EventHandler(this.BtnExcluir_Click);
             // 
             // BtnEditar
             // 
@@ -86,6 +89,7 @@
             this.BtnEditar.TabIndex = 19;
             this.BtnEditar.Text = "Editar";
             this.BtnEditar.UseVisualStyleBackColor = true;
+            this.BtnEditar.Click += new System.EventHandler(this.BtnEditar_Click);
             // 
             // BtnNovo
             // 
@@ -95,6 +99,7 @@
             this.BtnNovo.TabIndex = 18;
             this.BtnNovo.Text = "Novo";
             this.BtnNovo.UseVisualStyleBackColor = true;
+            this.BtnNovo.Click += new System.EventHandler(this.BtnNovo_Click);
             // 
             // TextId
             // 
@@ -162,6 +167,7 @@
             this.Controls.Add(this.Nome);
             this.Controls.Add(this.Id);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DgvDados)).EndInit();
