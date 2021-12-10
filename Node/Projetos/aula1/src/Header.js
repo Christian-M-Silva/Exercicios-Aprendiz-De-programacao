@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Header(){
+export default function Header(prosp){
     return(
         <header>
-            <h1>Titulo da pág</h1>
+            <h1>{prosp.title}</h1>
         </header>
     );
 }
