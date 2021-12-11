@@ -32,7 +32,8 @@ h1{
    width: 240px;
    height: 220px;
    margin-left: 10px;
-   background-color: white; 
+   background-color: white;
+   float: left; 
 }
 
 h2{
