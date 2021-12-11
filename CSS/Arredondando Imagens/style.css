@@ -1,26 +1,37 @@
 *{
     margin: 0px;
     padding: 0px;
-}
-.caixa-conteudo{
-    width: 400px;
-    background: url(Imagens/fundo-arredondamento.png);
-   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1{
+    text-align: center;
+}
+
+.caixa-conteudo{
+    width: 400px;
+    background: #DFDFDF url(Imagens/fundo-arredondamento.png);
+    float: left;
+    margin-top: 100px;
+    margin-left: 37px;
+}
+
+h2{
     background: url(Imagens/topo2.png) no-repeat;
     padding: 10px;
 }
 
 p{
-    margin-top: 10px;
-    border: 1px solid red;
+    margin: 10px 12px 0px 12px;
+    
+}
+
+p:hover, h2:hover{
+    color: #5E4242;
 }
 
 .rodape{
     background: url(Imagens/baixo2.png);
     width: 400px;
     height: 24px;
-    border: 1px solid red;
 }
