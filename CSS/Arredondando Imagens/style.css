@@ -4,4 +4,23 @@
 }
 .caixa-conteudo{
     width: 400px;
+    background: url(Imagens/fundo-arredondamento.png);
+   
+}
+
+h1{
+    background: url(Imagens/topo2.png) no-repeat;
+    padding: 10px;
+}
+
+p{
+    margin-top: 10px;
+    border: 1px solid red;
+}
+
+.rodape{
+    background: url(Imagens/baixo2.png);
+    width: 400px;
+    height: 24px;
+    border: 1px solid red;
 }
