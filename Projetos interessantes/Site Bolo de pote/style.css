@@ -28,6 +28,12 @@ h1{
     color: #ffb16c;
 }
 
+section{
+    border: 1px solid red;
+    float: left;
+    margin-left: 10px;
+}
+
 .caixa-conteudo{
    width: 240px;
    height: 220px;
