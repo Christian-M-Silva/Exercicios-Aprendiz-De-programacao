@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSHvuYeQPSyrRxugqM8qbvsJ61fEdkrChXVJyCrNnK6ywdU0BKTBJnBGduRJ09hePe9rars4w/fJ35YJuQJrCg==",
+  "dgSpecHash": "Ur/EXxgxfKkAdU21SPWBZmfQwos2o9T2Nk3J61G+yJ9AufJHmpL371NQiZbkIcjFID0VWF5DgVgVJeaf8M3yJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Remakker\\Downloads\\Christian\\Agencia de viagens\\Projeto\\Agencia de Viagens\\Agencia de viagens.csproj",
+  "projectFilePath": "C:\\Users\\Remakker\\Downloads\\Christian\\Exercicios-Aprendiz-De-programacao\\.Net\\Agencia de viagens\\Projeto bootstrap\\Agencia de viagens\\Agencia de viagens.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Remakker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
