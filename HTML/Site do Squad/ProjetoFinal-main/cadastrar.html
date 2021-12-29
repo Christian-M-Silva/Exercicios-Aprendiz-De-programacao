@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="img/logotipo-icon.svg" type="image/x-icon">
+
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <link href="css/style.css" rel="stylesheet" />
+    <script src="js/script.js" defer></script>
+    <title>AndorBook - Cadastro</title>
+</head>
+
+<body>
+    <header>
+        <!-- Nav do menu superior fixo -->
+        <nav class="menu-top shadow-sm row fixed-top">
+
+            <div class="col d-flex align-items-center">
+                <div class="button-menu text-center">
+                    <a onclick="btnMenu()" class="d-flex flex-column">
+                        <img src="img/menu-topo.svg" width="25px">
+                        <span>Menu</span>
+                    </a>
+                    <ul class="text-start">
+                        <div class="d-flex btn-x justify-content-end">
+                            <a onclick="btnClose()">
+                                Fechar
+                                <img src="img/closed.svg" width="15px" alt="Fechar">
+                            </a>
+                        </div>
+                        <img src="img/logotipo-dark.svg" alt="">
+                        <h4>Plataforma</h4>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="">Informações Úteis</a></li>
+                        <li><a href="">Novas Postagens</a></li>
+                        <li><a href="">Ongs Parceiras</a></li>
+                        <li><a href="">Primeiros Passos</a></li>
+                        <li><a href="">Contato</a></li>
+
+                        <h4>Contas</h4>
+                        <li><a href="">Login</a></li>
+                        <li><a href="">Cadastrar</a></li>
+
+                        <h4>Postagens</h4>
+                        <li><a href="">Moradias</a></li>
+                        <li><a href="">Empregos</a></li>
+                        <li><a href="">Informações Úteis</a></li>
+                        <li><a href="">Ongs Parceiras</a></li>
+
+                        <h4>Onde Encontar</h4>
+                        <li><a href="">Ongs</a></li>
+                        <li><a href="">Documentacoes</a></li>
+                        <li><a href="">Revalidaçoes</a></li>
+                        <li><a href="">Minha Comunidade</a></li>
+
+                    </ul>
+                </div>
+                <div class="space-search flex-fill">
+                    <label for="search"><img src="img/search.svg" alt=""></label>
+                    <input type="text" id="search" placeholder="PESQUISAR...">
+                </div>
+            </div>
+
+            <div class="col d-flex align-items-center justify-content-center">
+                <div class="logotype flex-fill text-center">
+                    <a href="index.html"><img src="img/logotipo.svg" alt="Logotipo Andor"></a>
+                </div>
+            </div>
+
+            <div class="col d-flex align-items-center">
+
+                <div class="flex-fill text-end">
+                    <div class="linguage">
+                        Idioma: <br>
+                        <select class="form-select-sm" aria-label=".form-select-sm">
+                            <option selected value="1">PORTUGUÊS</option>
+                            <option value="2">INGLÊS</option>
+                            <option value="3">ESPANHOL</option>
+                        </select>
+                        <img src="img/Lenguages.svg" alt="linguage">
+                    </div>
+                </div>
+
+                <div class="login-register text-end">
+                    <a href="login.html">LOGIN</a> | <a href="cadastrar.html">CADASTRAR</a>
+                    <span><img src="img/usuario.svg" alt="login ou registrar"></span>
+                </div>
+            </div>
+
+        </nav>
+
+    </header>
+
+    <!-- Container Geral -->
+    <div class="container-fluid">
+        <main class="row">
+            <!-- Menu Lateral fixo -->
+            <nav class="menu-right">
+                <div class="button-bg one"><a href=""><img src="img/info uteis.png"></a></div>
+                <div class="button-bg two"><a href=""><img src="img/empregos.png"></a></div>
+                <div class="button-bg three"><a href=""><img src="img/moradia.png"></a></div>
+                <div class="button-bg four"><a href=""><img src="img/ongs parceiras.png"></a></div>
+                <div class="button-bg five"><a href=""><img src="img/doacao.png"></a></div>
+                <div class="button-bg six"><a href=""><img src="img/Vector.png"></a></div>
+                <ul class="d-flex flex-column justify-content-around">
+                    <li>Informações Úteis</li>
+                    <li>Empregos</li>
+                    <li>Moradia</li>
+                    <li>Ongs Parceiras</li>
+                    <li>Doação</li>
+                    <li>Emergência</li>
+                </ul>
+            </nav>
+
+           <!--Teste-->
+           <a href="https://front.codes/" class="logo" target="_blank">
+            
+        </a>
+    
+        <div class="section">
+            <div class="container">
+                <div class="row full-height justify-content-center">
+                    <div class="col-12 text-center align-self-center py-5">
+                        <div class="section pb-5 pt-5 pt-sm-2 text-center cadastro">
+                            <span class="mb-0 pb-3 Login">Login </span>
+                            <span class="mb-0 pb-3 Cadastro">Cadastrar</span>
+                              <input class="checkbox" type="checkbox" id="reg-log" name="reg-log"/>
+                              <label for="reg-log" ></label>
+                            <div class="card-3d-wrap mx-auto">
+                                <div class="card-3d-wrapper">
+                                    <div class="card-front">
+                                        <div class="center-wrap">
+                                            <div class="section text-center">
+                                                <h4 class="mb-4 pb-3">Login</h4>
+                                                <div class="form-group">
+                                                    <input type="email" name="logemail" class="form-style" placeholder="Seu E-mail" id="logemail" autocomplete="off">
+                                                    <i class="input-icon uil uil-at"></i>
+                                                </div>	
+                                                <div class="form-group mt-2">
+                                                    <input type="password" name="logpass" class="form-style" placeholder="Sua senha" id="logpass" autocomplete="off">
+                                                    <i class="input-icon uil uil-lock-alt"></i>
+                                                </div>
+                                                <a href="#" class="btn mt-4">enviar</a>
+                                                <p class="mb-0 mt-4 text-center"><a href="#0" class="link">Esqueceu sua senha?</a></p>
+                                              </div>
+                                          </div>
+                                      </div>
+                                    <div class="card-back">
+                                        <div class="center-wrap">
+                                            <div class="section text-center">
+                                                <h4 class="mb-4 pb-3">Cadastro</h4>
+                                                <div class="form-group">
+                                                    <input type="text" name="logname" class="form-style" placeholder="Seu Nome completo" id="logname" autocomplete="off">
+                                                    <i class="input-icon uil uil-user"></i>
+                                                </div>	
+                                                <div class="form-group mt-2">
+                                                    <input type="email" name="logemail" class="form-style" placeholder="Seu E-mail" id="logemail" autocomplete="off">
+                                                    <i class="input-icon uil uil-at"></i>
+                                                </div>	
+                                                <div class="form-group mt-2">
+                                                    <input type="password" name="logpass" class="form-style" placeholder="Sua senha" id="logpass" autocomplete="off">
+                                                    <i class="input-icon uil uil-lock-alt"></i>
+                                                </div>
+                                                <a href="#" class="btn mt-4">enviar</a>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+            </div>
+        </div>
+           <!--Teste-->
+
+        </main>
+    </div>
+
+    <!-- Rodapé da página -->
+    <footer class="text-center">AndorBook - Todos os Direitos reservados 2022</footer>
+</body>
+
+</html>
