@@ -761,17 +761,28 @@ p {
 h4 {
   font-weight: 600;
 }
-.Login{
+.login .Login{
   position: relative;
   left: 25px;
   text-transform: uppercase;
   font-weight: 700;
 }
-.Cadastro{
+.login .Cadastro{
     margin-left: 50px;
     text-transform: uppercase;
     font-weight: 700;
-  }
+}
+.cadastro .Cadastro{
+    text-transform: uppercase;
+    font-weight: 700;
+    position: relative;
+    left: -45px;
+}
+.cadastro .Login{
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-left: -10px;
+}
 .section{
   position: relative;
   width: 100%;
@@ -821,27 +832,6 @@ h4 {
 .checkbox:checked + label:before {
   transform: translateX(44px) rotate(295deg);
 }
-.cadastro .checkbox:checked + label:before,
-.cadastro .checkbox:not(:checked) + label:before{
-  position: absolute;
-  display: block;
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  color: #ffeba7;
-  background-color: #102770;
-  font-family: 'unicons';
-  content: '\21E8';
-  transform: rotate(226deg);
-  z-index: 20;
-  top: -10px;
-  left: 38px; /*Esse*/
-  line-height: 32px;
-  text-align: center;
-  font-size: 24px;
-  transition: all 0.5s cubic-bezier(0.39, 0.58, 0.57, 1);
-}
-
 .card-3d-wrap {
   position: relative;
   width: 440px;
