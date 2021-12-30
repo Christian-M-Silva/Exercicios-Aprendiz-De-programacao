@@ -499,6 +499,8 @@ li {
 	width: 1px;
 	border: 0;
 	overflow: hidden;
+    top: 0;
+    left:0;
 }
 
 .switch-field label {
@@ -537,11 +539,11 @@ li {
 }
 
 .avatar-profile{
-    display: flex;
+    /*display: flex;
     position: relative;
     justify-content: center;
+    margin-left: 50%;*/
     margin-top: -45px;
-    margin-left: 50%;
 }
 
 .avatar-profile img{ 
@@ -558,7 +560,7 @@ li {
 
 .post-profile {
     position: relative;
-    margin-top: -25px;
+    margin-top: 0px;
 }
 
 .post-profile h4{
@@ -602,11 +604,16 @@ li {
     font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1100px) {
     /*Feed*/
     .switch-field {
         flex-wrap: wrap;
     }
+
+    .switch-field label {
+        height: 40px;
+        min-width: 100%;
+     }
 
     .switch-field label:first-of-type {
         border-radius: 0px;
@@ -615,24 +622,22 @@ li {
     .switch-field label:last-of-type {
         border-radius: 0px;
     }
-
-    .switch-field label {
-       height: 40px;
-       min-width: 49%;
+    .post-profile h4 span a {
+        font-size: 0.5rem;
+        margin-left: 5px;
     }
 
 }
 
-@media screen and (max-width: 900px) {
-    /*Feed*/
-    .switch-field label {
-       height: 40px;
-       min-width: 100%;
-    }
-
-}
 
 @media screen and (max-width: 700px) {
+    .menu-right:hover ul {
+        left:-100%;
+    }
+    .menu-right:hover {
+        width: 100%;   
+    }
+   
     /*menu*/
     .space-search {
         display: none;
@@ -653,7 +658,6 @@ li {
     }
     .login-register a{
         display: none;
-        
     }
 
     /*Feed*/
@@ -713,6 +717,15 @@ li {
         border-start-end-radius: 0px;
     }
 
+    .button-bg.one a:hover {
+        border-start-start-radius: 0px;
+        border-start-end-radius: 0px;
+    }
+    .button-bg.six a:hover {
+        border-end-end-radius: 0px;
+        border-end-start-radius: 0px;
+    }
+
     .info-utels {
         padding-top: 10px;
         padding-left: 10px;
@@ -728,6 +741,8 @@ li {
     }
 
 }
+
+
 
 /*Tela de login e cadastro*/
 
