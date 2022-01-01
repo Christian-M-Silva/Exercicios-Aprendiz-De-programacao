@@ -1,8 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
+    font-size: 18px;
+    font-family: 'Fuzzy Bubbles', cursive;
 }
 
-body{
+main{
     background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    height: 100vh;
+}
+
+#back-card{
+    width: 300px;
+    height: 430px;
+    background-color: hsl(215, 57%, 10%);
 }
