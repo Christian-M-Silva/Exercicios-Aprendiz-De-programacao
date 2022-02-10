@@ -18,7 +18,10 @@ function note (note1, note2, note3, note4){
     else if(finalGrade<70 && finalGrade>59){
         document.getElementById('note').innerHTML = "D"
     }
-    else{
+    else if(finalGrade<60 && finalGrade>=0){
         document.getElementById('note').innerHTML = "F"
+    }
+    else{
+        alert("Nota inválida") 
     }
 }
