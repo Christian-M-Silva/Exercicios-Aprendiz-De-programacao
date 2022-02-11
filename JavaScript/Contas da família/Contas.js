@@ -44,9 +44,9 @@ function balanceCalculation(){
         addIncome += addIncome
     }
 
-    for (i = 0; i < familyAccounts.expenditure.length; i++) {
+    /*for (i = 0; i < familyAccounts.expenditure.length; i++) {
         addExpenditure = addExpenditure + familyAccounts.expenditure[i]
-    }
+    }*/
 
     for (addExpenditure of familyAccounts.expenditure) {
         addExpenditure += addExpenditure
