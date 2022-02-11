@@ -36,12 +36,20 @@ function balanceCalculation(){
         }
     }
 
-    for (i = 0; i < familyAccounts.income.length; i++) {
+    /*for (i = 0; i < familyAccounts.income.length; i++) {
         addIncome = addIncome + familyAccounts.income[i]
+    }*/
+
+    for (addIncome of familyAccounts.income) {
+        addIncome += addIncome
     }
 
     for (i = 0; i < familyAccounts.expenditure.length; i++) {
         addExpenditure = addExpenditure + familyAccounts.expenditure[i]
+    }
+
+    for (addExpenditure of familyAccounts.expenditure) {
+        addExpenditure += addExpenditure
     }
 
     document.getElementsByTagName('h1')[0].innerHTML= addIncome >= addExpenditure ? `Seu saldo está positivo pois você tem ${addIncome - addExpenditure}$ de saldo`: `Seu saldo está negativo pois você tem ${addIncome - addExpenditure}$ de saldo`
