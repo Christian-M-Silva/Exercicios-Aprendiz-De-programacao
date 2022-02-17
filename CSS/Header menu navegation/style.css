@@ -9,8 +9,13 @@ body{
 
 header{
     display: flex;
-    border: 1px solid red;
     align-items: center;
+    padding: 1rem 0.5rem;
+    background-color: beige;
+}
+
+h2{
+    flex-basis: 57%;
 }
 
 ul{
@@ -18,6 +23,18 @@ ul{
     display: flex;
 }
 
-h2{
-    flex-basis: 50%;
+a{
+    text-decoration: none;
+    color: gray;
+    padding-right: 2rem;
+    font-weight: 500;
 }
+
+button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+}
+
