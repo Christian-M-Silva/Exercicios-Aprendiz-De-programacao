@@ -1,0 +1,16 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+#div-one{
+    transition: border-radius 2s, transform 2s;
+    transition-delay: .5s;
+    transition-timing-function: ease-in-out;
+}
+
+#div-one:hover{
+    border-radius: 90px;
+    transform: rotate(180deg);
+}
