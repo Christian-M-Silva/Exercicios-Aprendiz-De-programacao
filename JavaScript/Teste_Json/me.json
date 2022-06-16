@@ -1,0 +1,11 @@
+{
+    "name": "Christian",
+    "State": "RJ",
+    "hobbies": ["Jogar", "Filmes", "Séries", "HQ", "Futebol"],
+    "skill": {
+        "softSkills": ["paciência", "persistência", "agilidade"],
+        "hardSkills": ["Front-end", "Back-end"]
+    },
+    "age": 21,
+    "man": true
+}
