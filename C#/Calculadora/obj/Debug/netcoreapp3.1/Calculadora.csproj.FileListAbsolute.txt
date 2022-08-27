@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

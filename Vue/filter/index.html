@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <div id="app">
+            <h1>Nomes de pessoas</h1>
+
+            <ul v-for="name in names">
+                <li>
+                    {{name.name | editName()}}
+                </li>
+            </ul>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script> 
+        <script>
+            let app = new Vue({
+                el:"#app",
+                data: {
+                    names: [
+                        {name: "christian silva"},
+                        {name: "thayná silva"},
+                        {name: "deivid silva"},
+                        {name: "igor nery"},
+                        {name: "mauricio frias"}
+                    ]
+                },
+
+                filters:{
+                    editName(name){
+                        const firstName = name.substr(0, name.indexOf(" "))
+                        const lastName = name.substr(name.indexOf(" ") + 1)
+                        const resultEdit = firstName.substr(0 , 1).toUpperCase() + firstName.substr(1) + " " + lastName.substr(0 , 1).toUpperCase() + lastName.substr(1)
+                        return resultEdit
+                    }
+                }
+            })
+        </script>
+    </body>
+</html>

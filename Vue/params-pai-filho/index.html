@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Props pai e filho</title>
+</head>
+
+<body>
+    <div id="app">
+        <h1>Passando parâmetros entre pai e filho</h1>
+
+        <navbar></navbar>
+    </div>
+
+    <template id="nav">
+        <div style="width: 400px; height: 400px; background-color: aqua;">
+            <h1>Emit</h1>
+            <menu-item
+                @emit-christian="getLink"
+            ></menu-item>
+        </div>
+    </template>
+
+    <template id="menu">
+        <button @click="emitClick()">Enviar</button>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        Vue.component('navbar', {
+            template: "#nav",
+            methods:{
+                getLink(teste){
+                    teste.forEach(element => {
+                        alert(element.name)
+                    });
+                    
+                }
+            }
+        })
+
+        Vue.component('menu-item', {
+            template: '#menu',
+            methods:{
+                emitClick(){
+                    this.$emit('emit-christian', this.teste)
+                }
+            },
+
+            data(){
+                return{
+                    teste: [
+                        {name: "Thayná"},
+                        {name: "Christian"},
+                        {name: "Deivid"},
+                    ]
+                }
+            },
+        })
+
+        let app = new Vue({
+            el: '#app',
+        })
+    </script>
+</body>
+
+</html>

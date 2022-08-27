@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+        <title>Meu projeto Vue</title>
+    </head>
+    <body>
+        <div id="app">
+           <input type="text" placeholder="Digite seu nome" v-model="content">
+           <p v-if="content.toUpperCase() == 'THAYNÁ'">
+                {{`O id é ${users[1].id}, o nome é ${users[1].name} e a idade é ${users[1].age}`}}
+           </p>
+
+           <p v-else-if="content.toUpperCase() == 'DEIVID'">
+            {{`O id é ${users[2].id}, o nome é ${users[2].name} e a idade é ${users[2].age}`}}
+           </p>
+
+           <p v-else-if="content.toUpperCase() == 'CHRISTIAN'" v-for="(item, index) in users" :key="index">
+            {{`O id é ${item.id}, o nome é ${item.name} e a idade é ${item.age}`}}
+           </p>
+
+           <p v-else>
+                O seu nome não está cadastrado
+           </p>
+        </div>
+    </body>
+
+    <script>
+        let app = new Vue({
+            el: "#app",
+            data: {
+                users: [
+                    {
+                        id: 1,
+                        name: "Christian",
+                        age: 21
+                    },
+                    {
+                        id: 2,
+                        name: "Thayná",
+                        age: 23
+                    },
+                    {
+                        id: 3,
+                        name: "Deivid",
+                        age: 20
+                    },
+                ],
+
+                content: "",
+            }
+        })
+    </script>
+</html>

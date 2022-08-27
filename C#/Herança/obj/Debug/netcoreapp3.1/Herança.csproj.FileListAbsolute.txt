@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache

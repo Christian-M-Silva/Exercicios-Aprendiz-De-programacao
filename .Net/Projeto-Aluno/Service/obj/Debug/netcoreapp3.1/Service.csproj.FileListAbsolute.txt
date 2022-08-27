@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

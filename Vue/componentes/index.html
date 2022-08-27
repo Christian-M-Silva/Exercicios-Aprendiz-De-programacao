@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Components</title>
+</head>
+<body>
+    <div id="app">
+        <h1>
+            {{title}}
+        </h1>   
+        
+        <card-gray></card-gray>
+
+        <paragrafo-black></paragrafo-black>
+        
+    </div>
+
+    <template id="paragrafo">
+        <p>
+            <strong>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non laudantium perspiciatis doloribus illum nobis pariatur exercitationem itaque porro impedit rem aut nesciunt quidem, esse ducimus voluptatem neque? Facilis, molestias sit!
+            </strong>
+        </p>
+    </template>
+
+    <template id="card">
+        <div style="width: 400px; height: 400px; border-radius: 20px; background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+        background-blend-mode: multiply,multiply; display:flex; justify-content:center; align-items: center;">
+            <paragrafo-black></paragrafo-black>
+        </div>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script> 
+    <script>
+        Vue.component('paragrafo-black', {
+            template: "#paragrafo",
+        })
+
+        Vue.component('card-gray',{
+            template: '#card'
+        })
+
+        let app = new Vue({
+            el: "#app",
+            data: {
+                title: "Componentes VueJs",
+            }
+        })
+    </script>
+</body>
+</html>

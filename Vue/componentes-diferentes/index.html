@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Componentes que não são parentes</title>
+</head>
+
+<body>
+    <div id="app">
+        <h1>Escreva um nome</h1>
+        <my-input></my-input>
+        <my-preview></my-preview>
+    </div>
+    </div>
+
+    <template id="input">
+        <div>
+            <input type="text" placeholder="Escreva um nome" v-model="name">
+            <button @click.prevent="send">Click me</button>
+        </div>
+    </template>
+
+    <template id="preview">
+        <div style="width: 200px; height: 200px; background-color: blue; margin-top: 5rem; color: white; display: flex; justify-content: center; align-items: center;">
+            {{value}}
+        </div>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        Vue.component('my-input', {
+            template: '#input',
+            data() {
+                return {
+                    name: ''
+                }
+            },
+            methods: {
+                send() {
+                    eventBus.$emit('send-name', this.name)
+                }
+            }
+        })
+
+        Vue.component('my-preview', {
+            template: '#preview',
+            data(){
+                return{
+                    value:''
+                }
+            },
+            mounted() {
+                let thisPreview = this
+                eventBus.$on('send-name', function showName(name) {
+                    alert
+                    if(name.toUpperCase() == "CHRISTIAN"){
+                        thisPreview.value = "ACERTOU MIZERAVI"  
+                    }else{
+                        thisPreview.value = "EROU"  
+                    }
+                })
+            },
+        })
+
+        let eventBus = new Vue()
+        //Tem como usar o Vue.prototype.$eventHub = new Vue() que da no mesmo do código acima ai para usar ele tem que ser assim this.$eventHub
+
+        let app = new Vue({
+            el: '#app',
+            data: {
+
+            }
+        })
+    </script>
+</body>
+
+</html>

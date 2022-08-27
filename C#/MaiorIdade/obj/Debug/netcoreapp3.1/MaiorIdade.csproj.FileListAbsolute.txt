@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\bin\Debug\netcoreapp3.1\MaiorIdade.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MaiorIdade\obj\Debug\netcoreapp3.1\MaiorIdade.genruntimeconfig.cache

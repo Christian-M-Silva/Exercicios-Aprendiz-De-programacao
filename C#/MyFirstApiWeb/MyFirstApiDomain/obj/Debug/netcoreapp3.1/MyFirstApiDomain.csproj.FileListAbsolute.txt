@@ -1,0 +1,10 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\bin\Debug\netcoreapp3.1\MyFirstApiDomain.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\bin\Debug\netcoreapp3.1\MyFirstApiDomain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\bin\Debug\netcoreapp3.1\MyFirstApiDomain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiDomain\obj\Debug\netcoreapp3.1\MyFirstApiDomain.pdb

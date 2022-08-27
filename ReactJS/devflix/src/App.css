@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply font-sans;
+}
+
+header{
+    @apply py-6 bg-black pl-5 relative;
+}
+
+.logo{
+    @apply text-red-700 font-semibold text-2xl;
+}
+
+.favorite{
+    @apply bg-gray-300 p-2 rounded-lg font-semibold absolute left-[calc(100vw-35%)] landscape:left-[calc(100vw-20%)] md:left-[calc(100vw-20%)];
+}
+
+.background-notFound{
+    @apply flex h-[calc(100vh-5rem)] justify-center items-center;
+    background: url(img/cinema-fechado.jpg) no-repeat;
+    background-size: cover 
+}
+
+.container-notFound{
+   @apply bg-black p-4 flex flex-col text-red-600 items-center;
+}
+
+.title-notFound{
+    @apply font-semibold text-5xl;
+}
+
+.conteudo-notFound{
+    @apply md:text-xl landscape:text-xl;
+}

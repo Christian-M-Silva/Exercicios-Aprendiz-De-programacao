@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\bin\Debug\netcoreapp3.1\Mensage.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\Mensage\obj\Debug\netcoreapp3.1\Mensage.genruntimeconfig.cache

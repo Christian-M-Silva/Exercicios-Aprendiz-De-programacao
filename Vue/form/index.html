@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário para liga da Justiça</title>
+</head>
+
+<body>
+    <div id="app">
+        <form @submit.prevent>
+            <label for="identidade">Identidade Secreta:</label>
+            <input type="text" id="identidade" name="identidade" v-model="identity">
+
+            <br><br>
+
+            <label for="superhero">Nome de super herói:</label>
+            <input type="text" id="superhero" name="superhero" v-model="nameHero">
+
+            <p>Você tem super poderes?</p>
+            <input type="radio" value="true" name="skill" id="sim" v-model="havePowers"><label for="sim">Sim</label>
+
+            <input type="radio" value="false" name="skill" id="nao" v-model="havePowers"><label for="nao">Não</label>
+
+            <br><br>
+
+            <div v-if="havePowers == 'true'">
+                <label for="powers">Quais são os seus poderes?</label> <br>
+                <textarea name="powers" id="powers" cols="30" rows="5" v-model="skills"></textarea>
+            </div>
+
+            <div v-if="havePowers == 'false'">
+                <label for="ability">Quais são suas habilidade?</label> <br>
+                <textarea name="ability" id="ability" cols="30" rows="5" v-model="skills"></textarea>
+            </div>
+
+            <br>
+
+            <label for="winPowers" v-if="havePowers == 'true'">Como ganhou poderes</label>
+            <select name="winPowers" id="winPowers" v-if="havePowers == 'true'" v-model="winPower">
+                <option value="picada">Picada</option>
+                <option value="desastre">Desastre natural</option>
+                <option value="mutacao">Mudado geneticamente</option>
+                <option value="acidente">Um acidente na infância</option>
+                <option value="espaco">Veio do espaço</option>
+                <option value="outro">Especificar</option>
+            </select>
+            <input type="text" id="winPowers" v-model="winPowerInput" v-if="winPower == 'outro'">
+
+            <p>Por que quer ser um super herói:</p>
+            <input type="checkbox" value="Namorado/Namorada" name="relationship" id="relationship" v-model="why"><label
+                for="relationship">Para arranjar namorado ou namorada</label> <br>
+
+            <input type="checkbox" value="Dinheiro" name="money" id="money" v-model="why"><label for="money">Preciso de
+                dinheiro</label><br>
+
+            <input type="checkbox" value="Amigos" name="friends" id="friends" v-model="why"><label for="friends">Para
+                ter amigos</label><br>
+
+            <input type="checkbox" value="Descolado" name="cool" id="cool" v-model="why"><label for="cool">Para ser
+                descolado</label> <br>
+
+            <input type="checkbox" value="Transporte" name="transport" id="transport" v-model="why"><label
+                for="transport">Para ter um meio de transporte</label> <br>
+
+            <input type="checkbox" value="Roupas" name="clothing" id="clothing" v-model="why"><label for="clothing">Para
+                poder usar uma roupa maneira</label><br>
+
+            <input type="checkbox" value="Nemesis" name="nemesis" id="nemesis" v-model="why"><label for="nemesis">Para
+                ter um nemesis irado</label><br>
+
+            <input type="checkbox" value="Bater em vagabundo" name="tramp" id="tramp" v-model="why"><label
+                for="tramp">Para bater em vagabundo</label><br>
+
+            <input type="checkbox" value="Fazer o bem" name="good" id="good" v-model="why"><label for="good">Para fazer
+                o bem</label><br><br>
+
+            <button type="submit"  @click="enviar()">Enviar</button>
+        </form>
+
+        <hr>
+
+        <h2>Preview Formulário</h2>
+
+        <p>Identidade secreta: <strong>{{identity}}</strong></p>
+        <p>Nome de super-herói: <strong>{{nameHero}}</strong></p>
+        <p>Tem super poderes: <strong>{{havePowers}}</strong></p>
+        <p>Super poderes: <strong>{{skills}}</strong></p>
+        <p v-if="winPower != 'outro'">Como ganhou os super poderes: <strong>{{winPower}}</strong></p>
+        <p v-if="winPower == 'outro'">Como ganhou os super poderes: <strong>{{winPowerInput}}</strong></p>
+        <p>Por quer quer ser um super-herói:</p>
+        <ul v-for="(item, index) in why" :key="index">
+            <li><strong>{{item}}</strong></li>
+        </ul>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        let app = new Vue({
+            el: "#app",
+            data: {
+                identity: "",
+                nameHero: "",
+                havePowers: "",
+                skills: "",
+                winPower: "",
+                why: [],
+            },
+
+            methods:{
+                enviar(){
+                    alert("Formulário enviado com sucesso!")
+                },
+            }
+        })
+    </script>
+</body>
+
+</html>

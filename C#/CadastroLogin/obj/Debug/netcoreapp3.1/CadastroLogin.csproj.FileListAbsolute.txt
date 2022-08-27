@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\bin\Debug\netcoreapp3.1\CadastroLogin.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\CadastroLogin\obj\Debug\netcoreapp3.1\CadastroLogin.genruntimeconfig.cache

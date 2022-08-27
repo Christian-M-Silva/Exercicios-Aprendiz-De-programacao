@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\bin\Debug\netcoreapp3.1\HowManyAnimals.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowManyAnimals\obj\Debug\netcoreapp3.1\HowManyAnimals.genruntimeconfig.cache

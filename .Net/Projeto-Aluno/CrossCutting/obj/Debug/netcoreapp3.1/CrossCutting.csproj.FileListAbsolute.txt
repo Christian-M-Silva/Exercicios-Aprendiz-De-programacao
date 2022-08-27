@@ -1,0 +1,17 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete

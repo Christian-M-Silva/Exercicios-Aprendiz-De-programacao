@@ -1,0 +1,7 @@
+Id
+CreateAt
+UpdateAt
+Name
+YearBirth
+Series
+Responsible

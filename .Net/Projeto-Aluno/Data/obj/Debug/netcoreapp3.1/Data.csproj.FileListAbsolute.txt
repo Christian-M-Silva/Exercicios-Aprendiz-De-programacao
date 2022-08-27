@@ -1,0 +1,16 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\.Net\Projeto-Aluno\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

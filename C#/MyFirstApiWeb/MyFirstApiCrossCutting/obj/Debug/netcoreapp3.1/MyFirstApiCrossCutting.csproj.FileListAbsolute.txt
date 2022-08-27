@@ -1,0 +1,17 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiCrossCutting.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiCrossCutting.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiCrossCutting.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiData.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiDomain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiService.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiData.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiDomain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\bin\Debug\netcoreapp3.1\MyFirstApiService.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiCrossCutting\obj\Debug\netcoreapp3.1\MyFirstApiCrossCutting.csproj.CopyComplete

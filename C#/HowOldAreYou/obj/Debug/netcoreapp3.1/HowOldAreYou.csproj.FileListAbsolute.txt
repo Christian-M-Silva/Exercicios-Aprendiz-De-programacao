@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.exe
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.genruntimeconfig.cache

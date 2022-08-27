@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Props pai e filho</title>
+</head>
+
+<body>
+    <div id="app">
+        <h1>Passando parâmetros entre pai e filho</h1>
+
+        <navbar></navbar>
+
+        <menu-item
+            :items="[{name:'Christian', description:'Fundador'}, {name:'Thayná', description:'ADM'}, {name:'Deivid', description:'Usuário'}]"></menu-item>
+        </menu-item>
+    </div>
+
+    <template id="nav">
+        <nav style="width: 100vw; padding: 10px 0px; background-color:gray">
+            <menu-item
+                :items="list">
+            </menu-item>
+        </nav>
+    </template>
+
+    <template id="menu">
+        <ul>
+            <li v-for="(item, index) in items" :Key="index">
+                {{item.name}}
+                <ul>
+                    <li>{{item.description}}</li>
+                </ul>
+            </li>
+        </ul>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script>
+        Vue.component('navbar', {
+            template: "#nav",
+            data() {
+                return{
+                    list: [{ name: 'Christian', description: 'Fundador' }, { name: 'Thayná', description: 'ADM' }, { name: 'Deivid', description: 'Usuário' }]
+                }
+            }
+        })
+
+        Vue.component('menu-item', {
+            template: '#menu',
+            props: ['items'],
+
+        })
+
+        let app = new Vue({
+            el: '#app',
+        })
+    </script>
+</body>
+
+</html>

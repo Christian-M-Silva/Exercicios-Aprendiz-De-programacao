@@ -1,0 +1,16 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiData.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiData.runtimeconfig.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiData.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiData.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiData.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiDomain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\bin\Debug\netcoreapp3.1\MyFirstApiDomain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.csproj.CopyComplete
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiData\obj\Debug\netcoreapp3.1\MyFirstApiData.genruntimeconfig.cache

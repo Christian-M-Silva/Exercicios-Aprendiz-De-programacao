@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Cycle life</title>
+    </head>
+    <body>
+        <div id="app">
+            <h1>
+                {{title}}
+
+                <p>O diagrama: <a href="http:https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram" target="_blank" rel="noopener noreferrer"></a>Clique aqui</p>
+            </h1>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script> 
+        <script>
+            let app = new Vue({
+                el: "#app",
+                data: {
+                    title: "Cycle Life"
+                },
+                beforeCreate(){
+                    console.log(`Aqui é o beforeCreate e nem as variáveis: ${this.title} e nem o Dom (html ou o template) foi iniciado ainda ${this.$el}`)
+                },
+                created(){
+                    console.log(`Aqui é o Created e as variáveis já podem ser usadas: ${this.title}, mas o Dom (html ou o template) não foi iniciado ainda ${this.$el}, pode usar os methods`)
+                },
+                beforeMount(){
+                    console.log(`Aqui é o beforeMont já pode usar as variáveis: ${this.title} e  o Dom (html ou o template) ${this.$el}, pode usar os methods`)
+                },
+                mounted(){
+                    console.log(`Aqui é o mounted já pode usar as variáveis: ${this.title} e o Dom (html ou o template) ${this.$el}, pode usar os methods`)
+                },
+                beforeUpdate(){
+                    console.log(`Aqui é o beforeUpdate já pode usar as variáveis: ${this.title} e o Dom (html ou o template) ${this.$el}, pode usar os methods, aqui é antes da atualização`)
+                   
+                },
+                updated(){
+                    console.log(`Aqui é o update já pode usar as variáveis: ${this.title} e o Dom (html ou o template) ${this.$el}, pode usar os methods, aqui é depois da atualização`)
+                    
+                },
+                beforeDestroy(){
+                    console.log(`Aqui só quando tiver componentes`)
+                },
+                destroyed(){
+                    console.log(`Aqui só quando tiver componentes`)
+                }
+            })
+        </script>
+    </body>
+</html>

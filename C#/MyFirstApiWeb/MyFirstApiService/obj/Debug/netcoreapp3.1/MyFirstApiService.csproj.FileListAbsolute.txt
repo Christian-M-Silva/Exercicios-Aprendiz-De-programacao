@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiService.deps.json
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiService.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiService.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiData.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiDomain.dll
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiData.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\bin\Debug\netcoreapp3.1\MyFirstApiDomain.pdb
+C:\Users\Usuário\Documents\Projetos\exercicios-aprendiz-de-programacao\C#\MyFirstApiWeb\MyFirstApiService\obj\Debug\netcoreapp3.1\MyFirstApiService.csproj.CopyComplete
